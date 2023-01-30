@@ -1,0 +1,8 @@
+.list-container { 
+    background-color: rgb(83, 83, 174);
+    border-radius: 50px;
+    width: 30%;
+    margin: 10px;
+    color: white;
+    font-weight: bold;
+}
